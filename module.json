@@ -25,7 +25,6 @@
       "type": "Macro",
       "name": "macro-manager",
       "path": "packs/macro-manager.db",
-      "type": "Macro",
       "private": false
     }  
   ],
@@ -40,8 +39,8 @@
     }       
   ],
   
-  "url": "https://github.com/brunocalado/macro-manager",
-  "manifest": "https://raw.githubusercontent.com/brunocalado/macro-manager/main/module.json",  
-  "download": "https://codeload.github.com/brunocalado/macro-manager/zip/main"
+  "url": "https://github.com/strongpauly/macro-manager",
+  "manifest": "https://raw.githubusercontent.com/strongpauly/macro-manager/main/module.json",  
+  "download": "https://codeload.github.com/strongpauly/macro-manager/zip/main"
   
 }
