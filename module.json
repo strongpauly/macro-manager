@@ -40,7 +40,7 @@
   ],
   
   "url": "https://github.com/strongpauly/macro-manager",
-  "manifest": "https://raw.githubusercontent.com/strongpauly/macro-manager/main/module.json",  
-  "download": "https://codeload.github.com/strongpauly/macro-manager/zip/main"
+  "manifest": "https://raw.githubusercontent.com/strongpauly/macro-manager/for-install/module.json",  
+  "download": "https://codeload.github.com/strongpauly/macro-manager/zip/for-install"
   
 }
